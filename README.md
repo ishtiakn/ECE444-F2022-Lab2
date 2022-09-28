@@ -19,3 +19,21 @@ Screenshot of user page with the 4 required elements:<br />
 <img
   src="screenshots\a3.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px"><br />
+
+## Activity 4
+Screenshot of home page yet to be used:<br />
+<img
+  src="screenshots\a4-2.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"><br /><br />
+Result after giving valid input:<br />
+<img
+  src="screenshots\a4-3.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"><br /><br />
+Result after giving valid name, invalid email:<br />
+<img
+  src="screenshots\a4-4.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"><br /><br />
+Result after giving valid name, valid email that is not a uoft email:<br />
+<img
+  src="screenshots\a4-5.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px"><br /><br />
