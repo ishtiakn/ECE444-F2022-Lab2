@@ -6,6 +6,8 @@
         <h1>Hello,
             {% if name %}{{ name }}
             {% else %}Stranger{% endif %}!</h1>
+        <h1>{% if email %}Your University of Toronto Email address is {{ email }}
+            {% else %}You have not yet specified your University of Toronto Email address{% endif %}!</h1>
     </div>
     {{ wtf.quick_form(form) }}
     <br> <br>
