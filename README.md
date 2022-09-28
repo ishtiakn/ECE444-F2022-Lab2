@@ -6,4 +6,4 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.<br /><br />
 Screenshot of running "import flask" successfully in python in venv w/ timesstamp:<br />
 <img
   src="screenshots\a1.png"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px"><br />
